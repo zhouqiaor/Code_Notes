@@ -1,0 +1,7 @@
+import myCycle0501
+# python myCycle_setup.py build_ext --inplace
+
+if __name__ == '__main__':
+    filedir = '/Users/z/Desktop/Code_Notes/Graph/ZTE/Example.csv'
+    numList = [4, 6, 8, 10, 12, 14]
+    myCycle0501.printNums(filedir, numList)
