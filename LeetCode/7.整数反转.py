@@ -11,6 +11,20 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
+        # Your runtime beats 56.3 % of python submissions
+        # Your memory usage beats 6.45 % of python submissions (12.6 MB)
+        # if x > 0:
+        #     # n = int(str(x)[::-1])
+        #     n = int(''.join(reversed(str(x))))
+        # elif x < 0:
+        #     # n = int(str(x * -1)[-1::-1]) * -1
+        #     n = int(''.join(reversed(str(x*-1)))) *-1
+        # else:
+        #     n = 0
+        # if n > (2 ** 31 - 1) or n < (2 ** 31 * -1):
+        #     n = 0
+        # return n
+
         if x > -10 and x < 10:
             return x
 
