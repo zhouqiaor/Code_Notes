@@ -2,6 +2,12 @@
 
 [参考：Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
 
+[typora 标题添加编号](https://zhuanlan.zhihu.com/p/101661967)
+
+[Typora设置标题自动添加序号](https://www.jianshu.com/p/bf52cb523aaf)
+
+[Typora自动编号功能——最强版](https://blog.csdn.net/qq_33159059/article/details/87910522)
+
 ------
 
 1. 标题
